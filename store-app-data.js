@@ -576,6 +576,19 @@ const storeData = [
     "hours": "lun 09:00-19:30-09:00-19:30;mar 09:00-19:30-09:00-19:30;mer 10:00-19:30-10:00-19:30;gio 09:00-19:30-09:00-19:30;ven 09:00-19:30-09:00-19:30;sab 09:00-19:30-09:00-19:30;dom 09:00-19:30-09:00-19:30"
   },
   {
+    "name": "S&V | Corso Gastone Sozzi, 40",
+    "code1": "Q522",
+    "polo": "NA",
+    "sap": "24522",
+    "code2": "NA",
+    "banner": "S&V",
+    "internet": "TIM",
+    "address": "C.C.le Waltherpark - Piazza Walther, 22",
+    "phone": "0471 214981",
+    "email": "q522@salmoiraghievigano.it",
+    "hours": "lun 09:00-19:30-09:00-19:30;mar 09:00-19:30-09:00-19:30;mer 10:00-19:30-10:00-19:30;gio 09:00-19:30-09:00-19:30;ven 09:00-19:30-09:00-19:30;sab 09:00-19:30-09:00-19:30;dom 09:00-19:30-09:00-19:30"
+  },
+  {
     "name": "S&V | Via Rosa, 1",
     "code1": "A042",
     "polo": "VE089",
@@ -4744,7 +4757,7 @@ const storeData = [
     "banner": "Grand Vision",
     "internet": "TIM",
     "address": "C.C.le Rescaldina - Via Togliatti, 2 - 20027 - Rescaldina MI",
-    "phone": "0331/466661",
+    "phone": "0331 347821",
     "email": "rescaldinadeilaghi@grandvision.it",
     "hours": "lun 09:00-13:00-16:30-20:30;mar 09:00-13:00-16:30-20:30;mer 09:00-13:00-16:30-20:30;gio 09:00-13:00-16:30-20:30;ven 09:00-13:00-16:30-20:30;sab 09:00-13:00-16:30-20:30;Dom Chiuso"
   },
@@ -5407,7 +5420,7 @@ const storeData = [
     "banner": "Grand Vision",
     "internet": "TIM",
     "address": "C.C.le Centro Sicilia - SP54 - 95045 Misterbianco CT",
-    "phone": "095/481091",
+    "phone": "095505006",
     "email": "misterbianco@grandvision.it",
     "hours": "lun 09:30-13:00-16:30-20:30;mar 09:30-13:00-16:30-20:30;mer 09:30-13:00-16:30-20:30;gio 09:30-13:00-16:30-20:30;ven 09:30-13:00-16:30-20:30;sab 09:30-13:00-16:30-20:30;Dom Chiuso"
   },
@@ -6369,7 +6382,7 @@ const storeData = [
     "banner": "Corner Optique",
     "internet": "FASTWEB",
     "address": "C.C.le Ipercoop - Via Benozzo Gozzoli, 130 - 20152 Milano Baggio MI",
-    "phone": "02/48946266",
+    "phone": "02 91327 438",
     "email": "corner.baggio@grandvision.it",
     "hours": "lun 09:30-13:30-17:00-21:00;mar 09:30-13:30-17:00-21:00;mer 09:30-13:30-17:00-21:00;gio 09:30-13:30-17:00-21:00;ven 09:30-13:30-17:00-21:00;sab 09:30-13:30-17:00-21:00;Dom Chiuso"
   },
@@ -6824,7 +6837,7 @@ const storeData = [
     "banner": "Corner Optique",
     "internet": "FASTWEB",
     "address": "C.C.le Iperal - Via Giulio Chiarelli, 4/6 - 23022 - Prata Camportaccio SO",
-    "phone": "0343/220427",
+    "phone": "0343762179",
     "email": "corner.prata@grandvision.it",
     "hours": "lun 10:00-20:00-..-..;mar 10:00-20:00-..-..;mer 10:00-20:00-..-..;gio 10:00-20:00-..-..;ven 10:00-20:00-..-..;sab 10:00-20:00-..-..;dom 10:00-20:00-..-.."
   },
