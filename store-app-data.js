@@ -29,7 +29,6 @@ const storeData = [
     "email": "sgh2958@it.sunglasshut.com",
     "hours": "lun 09:00-12:30-15:00-19:30;mar 09:00-12:30-15:00-19:30;mer 09:00-12:30-15:00-19:30;gio 09:00-12:30-15:00-19:30;ven 09:00-12:30-15:00-19:30;sab 09:00-12:30-15:00-19:30;Dom Chiuso"
   },
-
     {
     "name": "Grandvision",
     "code1": "R448",
