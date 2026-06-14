@@ -29,6 +29,20 @@ const storeData = [
     "email": "sgh2958@it.sunglasshut.com",
     "hours": "lun 09:00-12:30-15:00-19:30;mar 09:00-12:30-15:00-19:30;mer 09:00-12:30-15:00-19:30;gio 09:00-12:30-15:00-19:30;ven 09:00-12:30-15:00-19:30;sab 09:00-12:30-15:00-19:30;Dom Chiuso"
   },
+
+    {
+    "name": "Grandvision",
+    "code1": "R448",
+    "polo": "27448",
+    "sap": "27448",
+    "code2": "27448",
+    "banner": "Grandvision",
+    "internet": "TIM",
+    "address": "Via del Corso, 58 Roma",
+    "phone": "0632651500",
+    "email": "romaviadelcorso@grandvision.it",
+    "hours": "lun 09:00-12:30-15:00-19:30;mar 09:00-12:30-15:00-19:30;mer 09:00-12:30-15:00-19:30;gio 09:00-12:30-15:00-19:30;ven 09:00-12:30-15:00-19:30;sab 09:00-12:30-15:00-19:30;Dom Chiuso"
+  },
   {
     "name": "Sunglass Hut | McArthurGlen Designer Outlet",
     "code1": "9269",
