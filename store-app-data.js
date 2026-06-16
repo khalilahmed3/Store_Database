@@ -23,7 +23,7 @@ const storeData = [
     "polo": "NA",
     "sap": "27681 ",
     "code2": "NA",
-    "banner": "Grand Vision",
+    "banner": "S&V",
     "internet": "TIM",
     "address": "Strada Statale 170 Diramazione Andria",
     "phone": "011/4113837",
