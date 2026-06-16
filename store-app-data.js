@@ -16,6 +16,21 @@ const storeData = [
     "email": "sanlorenzoinlucina@oliverpeoples.com",
     "hours": "lun 10:00-13:00-15:30-19:30;mar 10:00-13:00-15:30-19:30;mer 10:00-13:00-15:30-19:30;gio 10:00-13:00-15:30-19:30;ven 10:00-13:00-15:30-19:30;sab 10:00-13:00-15:30-19:30;Dom Chiuso"
   },
+
+   {
+    "name": "S&V | Spazio Conad c/o C.C.le Mongolfiera Andria",
+    "code1": "R681",
+    "polo": "NA",
+    "sap": "27681 ",
+    "code2": "NA",
+    "banner": "Grand Vision",
+    "internet": "TIM",
+    "address": "Strada Statale 170 Diramazione Andria",
+    "phone": "011/4113837",
+    "email": "str681@essilorluxottica.id",
+    "hours": "Lun ..-..- ;mar 09:30-13:30-14:30-19:30;mer 09:30-13:30-14:30-19:30;gio 09:30-13:30-14:30-19:30;ven 09:30-13:30-14:30-19:30;sab 09:30-13:30-14:30-19:30;Dom Chiuso"
+  },
+  
   {
     "name": "Sunglass Hut | McArthurGlen Designer Outlet",
     "code1": "9267",
@@ -4061,19 +4076,8 @@ const storeData = [
     "hours": "Lun ..-..- ;mar 09:30-13:30-14:30-19:30;mer 09:30-13:30-14:30-19:30;gio 09:30-13:30-14:30-19:30;ven 09:30-13:30-14:30-19:30;sab 09:30-13:30-14:30-19:30;Dom Chiuso"
   },
 
-  {
-    "name": "Grand Vision | Spazio Conad c/o C.C.le Mongolfiera Andria",
-    "code1": "R681",
-    "polo": "NA",
-    "sap": "27681 ",
-    "code2": "NA",
-    "banner": "Grand Vision",
-    "internet": "TIM",
-    "address": "Strada Statale 170 Diramazione Andria",
-    "phone": "011/4113837",
-    "email": "str681@essilorluxottica.id",
-    "hours": "Lun ..-..- ;mar 09:30-13:30-14:30-19:30;mer 09:30-13:30-14:30-19:30;gio 09:30-13:30-14:30-19:30;ven 09:30-13:30-14:30-19:30;sab 09:30-13:30-14:30-19:30;Dom Chiuso"
-  },
+ 
+  
   {
     "name": "Grand Vision | Corso Torino, 125",
     "code1": "K028",
