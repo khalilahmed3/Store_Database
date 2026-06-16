@@ -29,6 +29,7 @@ const storeData = [
     "email": "sgh2958@it.sunglasshut.com",
     "hours": "lun 09:00-12:30-15:00-19:30;mar 09:00-12:30-15:00-19:30;mer 09:00-12:30-15:00-19:30;gio 09:00-12:30-15:00-19:30;ven 09:00-12:30-15:00-19:30;sab 09:00-12:30-15:00-19:30;Dom Chiuso"
   },
+
     {
     "name": "Grandvision",
     "code1": "R448",
@@ -4057,6 +4058,20 @@ const storeData = [
     "address": "Corso Francia 387 Bis C - 10142 - Torino TO",
     "phone": "011/4113837",
     "email": "torinocorsofrancia@grandvision.it",
+    "hours": "Lun ..-..- ;mar 09:30-13:30-14:30-19:30;mer 09:30-13:30-14:30-19:30;gio 09:30-13:30-14:30-19:30;ven 09:30-13:30-14:30-19:30;sab 09:30-13:30-14:30-19:30;Dom Chiuso"
+  },
+
+  {
+    "name": "Grand Vision | Spazio Conad c/o C.C.le Mongolfiera Andria",
+    "code1": "R681",
+    "polo": "NA",
+    "sap": "27681 ",
+    "code2": "NA",
+    "banner": "Grand Vision",
+    "internet": "TIM",
+    "address": "Strada Statale 170 Diramazione Andria",
+    "phone": "011/4113837",
+    "email": "str681@essilorluxottica.id",
     "hours": "Lun ..-..- ;mar 09:30-13:30-14:30-19:30;mer 09:30-13:30-14:30-19:30;gio 09:30-13:30-14:30-19:30;ven 09:30-13:30-14:30-19:30;sab 09:30-13:30-14:30-19:30;Dom Chiuso"
   },
   {
