@@ -4477,7 +4477,7 @@ const storeData = [
     "banner": "Grand Vision",
     "internet": "TIM",
     "address": "Via di Boccea, 137-139 - 00167 - Roma RM",
-    "phone": "06/66019175",
+    "phone": "062412764",
     "email": "romaboccea@grandvision.it",
     "hours": "lun 09:30-20:00-..-..;mar 09:30-20:00-..-..;mer 09:30-20:00-..-..;gio 09:30-20:00-..-..;ven 09:30-20:00-..-..;sab 09:30-20:00-..-..;dom 09:30-19:30-..-.."
   },
