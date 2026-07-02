@@ -5569,7 +5569,7 @@ const storeData = [
     "banner": "Grand Vision",
     "internet": "TIM",
     "address": "C.C.le Bennet - Via Circonvallazione, 95 - 10018 - Pavone TO",
-    "phone": "0125/516678",
+    "phone": "0125223256",
     "email": "pavonecanavese@grandvision.it",
     "hours": "lun 10:00-20:30-..-..;mar 10:00-20:30-..-..;mer 10:00-20:30-..-..;gio 10:00-20:30-..-..;ven 10:00-20:30-..-..;sab 10:00-20:30-..-..;dom 10:00-20:30-..-.."
   },
