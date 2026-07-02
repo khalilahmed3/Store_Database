@@ -4269,7 +4269,7 @@ const storeData = [
     "banner": "Grand Vision",
     "internet": "TIM",
     "address": "Via Giuseppe Garibaldi, 10 - 10122 - Torino TO",
-    "phone": "011/4368191",
+    "phone": "0118116662",
     "email": "torinogaribaldi@grandvision.it",
     "hours": "lun 09:00-20:30-..-..;mar 09:00-20:30-..-..;mer 09:00-20:30-..-..;gio 09:00-20:30-..-..;ven 09:00-20:30-..-..;sab 09:00-20:30-..-..;dom 09:00-20:30-..-.."
   },
